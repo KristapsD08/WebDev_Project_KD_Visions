@@ -1,0 +1,28 @@
+h1 {
+    background-color: rgb(43, 255, 0);
+}
+h1 {
+    font-size: 50px;
+}
+img {
+    width: 500px;
+    height: auto;
+}
+h3 {
+    Background-color: rgba(255, 230, 0, 0.822);
+    width: fit-content;
+}
+h4 {
+    font-size: 30px;
+}
+h5 {
+    font-size: 20px;
+}
+h6 {
+    font-size: 15px;
+}
+h6 {
+    background-color: rgba(213, 220, 6, 0.79);
+    width: fit-content;
+}
+
